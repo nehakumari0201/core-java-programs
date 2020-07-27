@@ -9,7 +9,7 @@ class B
 {
 void msg()
 {
-System.out.println("welcom");
+System.out.println("welcome");
 }
 }
 class C extends A
